@@ -3,7 +3,7 @@ How to Sign In to Your RoboForm Account Easily
 
 In today’s fast-paced digital world, we are required to manage countless passwords for different online accounts. With the growing number of accounts, it becomes increasingly difficult to remember each one, let alone create strong, secure passwords. This is where **RoboForm**, a trusted password manager, comes into play. RoboForm securely stores your passwords, keeps track of your logins, and offers encryption to protect your sensitive information.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: get-started.jpg
    :alt: My Project Logo
    :width: 400px
    :align: center
